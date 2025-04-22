@@ -4,7 +4,7 @@ clear;
 clc;
 
 %% User Configurable Variables
-input_image_file = 'Demo.cropped.png';
+input_image_file = 'demo.cropped.png';
 gauss_mean = 0;
 gauss_variance = 0.005;
 salt_and_peper_percent = 0.015;
